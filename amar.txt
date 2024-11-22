@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hiiiii everyone present here
 Hiiii GitLab
 Hiiiii durga
+=======
+HHHHiiiii
+>>>>>>> 637cb2b (commit4)
